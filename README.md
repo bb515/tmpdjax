@@ -1,9 +1,9 @@
-[Tweedie Moment Projected Diffusions for Inverse Problems](https://arxiv.org/pdf/2310.06721.pdf)
+[Tweedie Moment Projected Diffusions for Inverse Problems](https://openreview.net/pdf?id=4unJi0qrTE)
 ========================================================
 
 ![result-git0](./readme_FFHQ_0.05.gif)
 
-This repo contains the official implementation for the paper [Tweedie Moment Projected Diffusions for Inverse Problems](https://arxiv.org/pdf/2310.06721.pdf). An example of an application to a particular inverse problem, noisy super-resolution on FFHQ is below. The animation is of the expected value of a particular sample of an image over the time steps of our algorithm.
+This repo contains the official implementation for the paper [Tweedie Moment Projected Diffusions for Inverse Problems](https://openreview.net/pdf?id=4unJi0qrTE). An example of an application to a particular inverse problem, noisy super-resolution on FFHQ is below. The animation is of the expected value of a particular sample of an image over the time steps of our algorithm.
 
 ![cover-img1](./readme_FFHQ_0.05.png)
 
